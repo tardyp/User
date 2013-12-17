@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"CoffeeCompile",
+		"Jade",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pyflakes"
+	]
+}
